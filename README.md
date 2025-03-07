@@ -1,10 +1,5 @@
-# Entendendo o Desafio - IAs Generativas e Criação de Conteúdo
 
-Olá pessoal, Venilton da DIO aqui! Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Para isso, crie seu próprio repositório (dando um "fork" no GitHub da DIO) e aumente ainda mais seu portfólio de projetos, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
-
-Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas. Exploraremos o potencial dessas tendências tecnológicas incríveis 💪🤓.
-
-## Descrição do Projeto
+# Descrição do Projeto
 
 Este projeto explorou a criação de conteúdo utilizando Inteligências Artificiais Generativas. O objetivo foi demonstrar como as IAs podem ser usadas para gerar conteúdo criativo, como letras de músicas, músicas completas e miniaturas (thumbnails).
 
