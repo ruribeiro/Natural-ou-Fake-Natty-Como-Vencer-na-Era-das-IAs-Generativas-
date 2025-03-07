@@ -15,7 +15,7 @@ Este projeto explorou a criação de conteúdo utilizando Inteligências Artific
 ## Ferramentas Utilizadas
 
 * **Gemini (Google):** Para criação de letras e thumbnails.
-* **Mureke.ai:** Para geração da música.
+* **Mureke.ai:** Para geração da música. - música criada - https://www.mureka.ai/song-detail/BTUAABbm84VSmGqXfQFTV1?is_from_share=1
 * **Markdown:** para a criação do Readme.
 
 ## Resultados
